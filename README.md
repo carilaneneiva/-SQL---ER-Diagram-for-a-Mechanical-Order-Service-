@@ -1,9 +1,12 @@
 # -SQL---ER-Diagram-for-a-Mechanical-Order-Service-
 ER Diagram schema  conceptual  for a  mechanic service order.
 
+
 #Objetive Project
 
 ##Build the conceptual scheme for the operation of a mechanical assistance  with the main objective.
+
+
 
 #Narrative:
 
