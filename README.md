@@ -10,8 +10,7 @@ ER Diagram schema  conceptual  for a  mechanic service order.
 
 #Narrative:
 
-
-##Service order execution control and management system in a mechanical assistance.
+*italic text*Service order execution control and management system in a mechanical assistance.
 
 ##Customers take vehicles to the repair assistance to be repaired or to have periodic evaluations performed.
 
