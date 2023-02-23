@@ -4,7 +4,7 @@ ER Diagram schema  conceptual  for a  mechanic service order.
 
 # Objetive Project
 
-##Build the conceptual scheme for the operation of a mechanical assistance  with the main objective.
+*Build the conceptual scheme for the operation of a mechanical assistance  with the main objective.
 
 
 
